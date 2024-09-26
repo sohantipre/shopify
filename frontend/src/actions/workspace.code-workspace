@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\redux"
+		},
+		{
+			"path": "..\\..\\..\\..\\hotel"
+		},
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\task-app"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
